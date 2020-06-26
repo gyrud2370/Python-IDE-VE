@@ -10,3 +10,4 @@ sum += int(num[3])
 sum += int(num[4])
 print('입력 값:', value)
 print('모든 자릿수 합:', sum)
+r
